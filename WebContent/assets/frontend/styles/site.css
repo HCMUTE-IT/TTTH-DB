@@ -1,0 +1,52 @@
+/* Đổi màu thanh cuộn trình duyệt */
+::-webkit-scrollbar {
+    background: #E4DDDF;
+    width: 11px;
+    height: 11px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7ABFD6;
+    border-radius: 0px;
+}
+.carousel{
+    padding-bottom: 20PX !important;
+}
+
+.navbar{
+	border-radius: 0px;
+}
+.navbar-nav li a{
+ 
+}
+.navbar-brand i{
+  font-weight: bold;
+}
+.navbar-brand {
+  background-color: #008DC4;
+}
+.panel-heading{
+	border-radius: 0px !important;
+}
+.navbar-nav li a{
+	border-left: 1px solid #007CA6 !important;
+}
+
+.footer-custom{
+	padding-top: 8px !important; 
+	padding-bottom: 3px !important;
+}
+
+.search-main{
+	padding-top: 70px !important;
+}
+.header-main{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.news-ico{
+	margin-top:3px !important;
+}
+.course-ico{
+	margin-top:15px !important;
+}
